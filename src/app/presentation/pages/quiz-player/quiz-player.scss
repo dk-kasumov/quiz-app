@@ -1,0 +1,73 @@
+.player {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+
+  &__head {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+
+  &__exit {
+    align-self: flex-start;
+    font-size: 0.9rem;
+    color: var(--primary);
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  &__title {
+    margin: 0;
+    font-size: clamp(1.2rem, 4.5vw, 1.4rem);
+  }
+
+  &__status {
+    color: var(--muted);
+
+    &--error {
+      color: var(--wrong);
+    }
+  }
+
+  &__nav {
+    display: flex;
+    justify-content: space-between;
+    gap: 0.75rem;
+  }
+}
+
+.result {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 2rem 1.5rem;
+  text-align: center;
+
+  &__heading {
+    margin: 0 0 0.75rem;
+  }
+
+  &__score {
+    margin: 0 0 1.5rem;
+    font-size: 1.1rem;
+    color: var(--muted);
+
+    strong {
+      color: var(--correct);
+      font-size: 1.3rem;
+    }
+  }
+
+  &__actions {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.75rem;
+  }
+}
+
+/* `.btn` is defined globally (shared with the edit dialog). */

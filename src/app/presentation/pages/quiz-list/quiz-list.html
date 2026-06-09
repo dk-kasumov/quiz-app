@@ -1,0 +1,19 @@
+<section class="list">
+  <header class="list__head">
+    <h1 class="list__title">Оберіть вікторину</h1>
+    <p class="list__subtitle">Гістологія, цитологія та ембріологія — {{ quizzes().length }} тем</p>
+  </header>
+
+  <ul class="list__grid">
+    @for (quiz of quizzes(); track quiz.id) {
+      <li>
+        <a class="quiz-card" [routerLink]="['/quiz', quiz.id]">
+          <span class="quiz-card__title">{{ quiz.title }}</span>
+          <span class="quiz-card__count">{{ quiz.count }} питань</span>
+        </a>
+      </li>
+    } @empty {
+      <li class="list__loading">Завантаження…</li>
+    }
+  </ul>
+</section>

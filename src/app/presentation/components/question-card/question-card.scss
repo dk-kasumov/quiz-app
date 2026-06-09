@@ -1,0 +1,117 @@
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 1.5rem;
+  box-shadow: 0 1px 3px rgba(15, 23, 42, 0.06);
+
+  &__head {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    margin-bottom: 1.25rem;
+  }
+
+  &__question {
+    margin: 0;
+    flex: 1;
+    font-size: 1.15rem;
+    font-weight: 600;
+    line-height: 1.45;
+  }
+
+  &__edit {
+    flex: 0 0 auto;
+    width: 2.25rem;
+    height: 2.25rem;
+    font-size: 1.1rem;
+    line-height: 1;
+    color: var(--muted);
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    cursor: pointer;
+    transition: color 0.12s ease, border-color 0.12s ease;
+
+    &:hover {
+      color: var(--primary);
+      border-color: var(--primary);
+    }
+  }
+
+  &__options {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.65rem;
+  }
+}
+
+.option {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  width: 100%;
+  padding: 0.85rem 1rem;
+  text-align: left;
+  font: inherit;
+  color: var(--text);
+  background: var(--surface);
+  border: 2px solid var(--border);
+  border-radius: 10px;
+  cursor: pointer;
+  transition: border-color 0.15s ease, background 0.15s ease, opacity 0.15s ease;
+
+  &:not(:disabled):hover {
+    border-color: var(--primary);
+    background: #f5f7ff;
+  }
+
+  &:disabled {
+    cursor: default;
+  }
+
+  &__label {
+    flex: 0 0 1.9rem;
+    height: 1.9rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    border-radius: 50%;
+    background: var(--bg);
+    border: 1px solid var(--border);
+  }
+
+  &__text {
+    flex: 1;
+  }
+
+  /* --- answered states ------------------------------------------------- */
+  &--correct {
+    border-color: var(--correct);
+    background: var(--correct-bg);
+    color: var(--correct);
+    .option__label { background: var(--correct); color: #fff; border-color: var(--correct); }
+  }
+
+  &--wrong {
+    border-color: var(--wrong);
+    background: var(--wrong-bg);
+    color: var(--wrong);
+    .option__label { background: var(--wrong); color: #fff; border-color: var(--wrong); }
+  }
+
+  &--no-answer {
+    border-color: var(--info);
+    background: var(--info-bg);
+    color: var(--info);
+    .option__label { background: var(--info); color: #fff; border-color: var(--info); }
+  }
+
+  &--neutral {
+    opacity: 0.55;
+  }
+}

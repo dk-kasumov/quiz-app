@@ -1,0 +1,24 @@
+<article class="card">
+  <header class="card__head">
+    <p class="card__question">{{ question().question }}</p>
+    <button type="button" class="card__edit" title="Редагувати питання" (click)="edit.emit()">
+      ✎
+    </button>
+  </header>
+
+  <ul class="card__options">
+    @for (option of question().options; track option.label) {
+      <li>
+        <button
+          type="button"
+          [class]="'option option--' + states()[option.label]"
+          [disabled]="answered()"
+          (click)="pick.emit(option.label)"
+        >
+          <span class="option__label">{{ option.label }}</span>
+          <span class="option__text">{{ option.text || '—' }}</span>
+        </button>
+      </li>
+    }
+  </ul>
+</article>

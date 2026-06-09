@@ -1,0 +1,12 @@
+<div
+  class="progress"
+  role="progressbar"
+  [attr.aria-valuenow]="percent()"
+  aria-valuemin="0"
+  aria-valuemax="100"
+>
+  <div class="progress__track">
+    <div class="progress__fill" [style.width.%]="percent()"></div>
+  </div>
+  <span class="progress__label">Питання {{ current() }} / {{ total() }}</span>
+</div>

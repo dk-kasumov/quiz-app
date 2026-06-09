@@ -1,0 +1,58 @@
+<section class="player">
+  @if (session.loading()) {
+    <p class="player__status">Завантаження…</p>
+  } @else if (session.error()) {
+    <p class="player__status player__status--error">{{ session.error() }}</p>
+    <a class="btn" routerLink="/">До списку вікторин</a>
+  } @else if (session.quiz(); as quiz) {
+    <header class="player__head">
+      <a class="player__exit" routerLink="/">← Усі вікторини</a>
+      <h1 class="player__title">{{ quiz.title }}</h1>
+    </header>
+
+    @if (session.finished()) {
+      <div class="result">
+        <h2 class="result__heading">Вікторину завершено 🎉</h2>
+        <p class="result__score">
+          Правильних відповідей: <strong>{{ session.score() }}</strong> / {{ session.total() }}
+        </p>
+        <div class="result__actions">
+          <button type="button" class="btn" (click)="session.back()">← Назад</button>
+          <button type="button" class="btn btn--primary" (click)="session.restart()">
+            Спробувати знову
+          </button>
+          <a class="btn" routerLink="/">До списку</a>
+        </div>
+      </div>
+    } @else {
+      <app-progress-bar [current]="session.index() + 1" [total]="session.total()" />
+
+      <app-question-card
+        [question]="session.current()!"
+        [states]="session.optionStates()"
+        [answered]="session.isAnswered()"
+        (pick)="pick($event)"
+        (edit)="editing.set(true)"
+      />
+
+      @if (editing()) {
+        <app-question-edit-dialog
+          [question]="session.current()!"
+          (save)="saveEdit($event)"
+          (dismiss)="editing.set(false)"
+        />
+      }
+
+      <nav class="player__nav">
+        <button type="button" class="btn" [disabled]="session.isFirst()" (click)="session.back()">
+          ← Назад
+        </button>
+        @if (session.isAnswered()) {
+          <button type="button" class="btn btn--primary" (click)="session.next()">
+            {{ session.isLast() ? 'Завершити' : 'Далі →' }}
+          </button>
+        }
+      </nav>
+    }
+  }
+</section>

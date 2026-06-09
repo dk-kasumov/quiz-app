@@ -1,0 +1,13 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "Parses the histology exam PDF into structured questions.json",
+  "type": "module",
+  "scripts": {
+    "parse": "node parser.mjs"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "pdfjs-dist": "^4.10.38"
+  }
+}

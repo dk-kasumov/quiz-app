@@ -1,0 +1,33 @@
+<dialog #dlg class="dialog" (close)="dismiss.emit()">
+  <form class="edit" method="dialog" (submit)="onSubmit()">
+    <h2 class="edit__title">Редагувати питання</h2>
+
+    <label class="edit__field">
+      <span class="edit__label">Текст питання</span>
+      <textarea class="edit__textarea" name="question" rows="3" [(ngModel)]="text"></textarea>
+    </label>
+
+    <fieldset class="edit__options">
+      <legend class="edit__label">Варіанти (позначте правильні)</legend>
+      @for (option of options; track option.label) {
+        <div class="edit__option">
+          <label class="edit__check" [title]="'Правильна відповідь ' + option.label">
+            <input type="checkbox" [(ngModel)]="option.correct" [name]="'correct-' + option.label" />
+            <span class="edit__badge">{{ option.label }}</span>
+          </label>
+          <input
+            class="edit__input"
+            type="text"
+            [(ngModel)]="option.text"
+            [name]="'text-' + option.label"
+          />
+        </div>
+      }
+    </fieldset>
+
+    <footer class="edit__actions">
+      <button type="button" class="btn" (click)="dismiss.emit()">Скасувати</button>
+      <button type="submit" class="btn btn--primary">Зберегти</button>
+    </footer>
+  </form>
+</dialog>
