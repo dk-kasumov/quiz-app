@@ -1,0 +1,169 @@
+[
+  {
+    "id": 12,
+    "section": "Цитологія",
+    "question": "На електронограмах клітин печінки щура добре помітні структури овальної форми, двомембранні, внутрішня мембрана утворює кристи. Які ці органели?",
+    "options": [
+      { "label": "A", "text": "Пероксисоми", "correct": false },
+      { "label": "B", "text": "Мітохондрії", "correct": true },
+      { "label": "C", "text": "Центросоми", "correct": false },
+      { "label": "D", "text": "Рибосоми", "correct": false },
+      { "label": "E", "text": "Лізосоми", "correct": false }
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 13,
+    "section": "Цитологія",
+    "question": "Серед мембранних органел клітини виділяють одномембранні і двомембранні. Які органели мають двомембранну будову?",
+    "options": [
+      { "label": "A", "text": "Мітохондрії, апарат Гольджі", "correct": false },
+      { "label": "B", "text": "Клітинний центр, рибосоми", "correct": false },
+      { "label": "C", "text": "Митохондрії, пластиди", "correct": true },
+      { "label": "D", "text": "Апарат Гольджі, рибосоми", "correct": false },
+      { "label": "E", "text": "Ендоплазматична сітка, пластиди", "correct": false }
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 14,
+    "section": "Цитологія",
+    "question": "В клітині порушена структура рибосом. Які процеси постраждають у першу чергу?",
+    "options": [
+      { "label": "A", "text": "Синтез нуклеїнових кислот", "correct": false },
+      { "label": "B", "text": "Синтез білків", "correct": true },
+      { "label": "C", "text": "Синтез вуглеводів", "correct": false },
+      { "label": "D", "text": "Синтез ліпідів", "correct": false },
+      { "label": "E", "text": "Синтез мінеральних речовин", "correct": false }
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 15,
+    "section": "Цитологія",
+    "question": "Органела клітини має власну білоксинтезуючу систему. Назвіть її:",
+    "options": [
+      { "label": "A", "text": "апарат Гольджі", "correct": false },
+      { "label": "B", "text": "лізосома", "correct": false },
+      { "label": "C", "text": "вакуоля", "correct": false },
+      { "label": "D", "text": "ендоплазматичний ретикулум", "correct": false },
+      { "label": "E", "text": "мітохондрія", "correct": true }
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 16,
+    "section": "Цитологія",
+    "question": "Продукти обміну виводяться з клітини за допомогою комплексу Гольджі у результаті з'єднання його мембранної структури з плазмолемою. Що це за процес?",
+    "options": [
+      { "label": "A", "text": "Осмос", "correct": false },
+      { "label": "B", "text": "Дифузія", "correct": false },
+      { "label": "C", "text": "Ендоцитоз", "correct": false },
+      { "label": "D", "text": "Екзоцитоз", "correct": true },
+      { "label": "E", "text": "Активний транспорт", "correct": false }
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 17,
+    "section": "Цитологія",
+    "question": "В культурі тканин ядерним випромінюванням пошкоджені ядерця ядер. Оновлення яких органел у цитоплазмі клітин стає проблематичним?",
+    "options": [
+      { "label": "A", "text": "Рибосом", "correct": true },
+      { "label": "B", "text": "Лізосом", "correct": false },
+      { "label": "C", "text": "Комплексу Гольджі", "correct": false },
+      { "label": "D", "text": "Мікротрубочок", "correct": false },
+      { "label": "E", "text": "Ендоплазматичної сітки", "correct": false }
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 18,
+    "section": "Цитологія",
+    "question": "Під час мітотичного поділу клітини досліднику вдалося спостерігати фазу, в якій була відсутня оболонка ядра і ядерце, центріолі розташувалися на протилежних полюсах клітини, а хромосоми мали вигляд клубка ниток, вільно розташованих у цитоплазмі. На якій стадії мітотичного циклу знаходиться клітина?",
+    "options": [
+      { "label": "A", "text": "Профази", "correct": true },
+      { "label": "B", "text": "Анафази", "correct": false },
+      { "label": "C", "text": "Інтерфази", "correct": false },
+      { "label": "D", "text": "Метафази", "correct": false },
+      { "label": "E", "text": "Телофази", "correct": false }
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 19,
+    "section": "Цитологія",
+    "question": "Піддослідним тваринам протягом 24 діб вводили солі важких металів. Вивчення препаратів печінки під електронним мікроскопом виявило деструкцію мітохондрій в гепатоцитах. З великою впевненістю можна стверджувати, що в гепатоцитах порушені процеси:",
+    "options": [
+      { "label": "A", "text": "синтезу білків", "correct": false },
+      { "label": "B", "text": "енергетичного обміну", "correct": true },
+      { "label": "C", "text": "жирового обміну", "correct": false },
+      { "label": "D", "text": "синтезу вуглеводів", "correct": false },
+      { "label": "E", "text": "всмоктування води", "correct": false }
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 20,
+    "section": "Цитологія",
+    "question": "В цитогенетичній лабораторії досліджували каріотип здорового чоловіка. Було встановлено, що його соматичні клітини містять 46 хромосом. Яка кількість аутосом міститься в його соматичних клітинах?",
+    "options": [
+      { "label": "A", "text": "23", "correct": false },
+      { "label": "B", "text": "22", "correct": false },
+      { "label": "C", "text": "44", "correct": true },
+      { "label": "D", "text": "46", "correct": false },
+      { "label": "E", "text": "92", "correct": false }
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 21,
+    "section": "Цитологія",
+    "question": "Ген, що кодує ланцюжок поліпептиду, містить 4 екзони і 3 інтрони. Після закінчення процесингу зріла іРНК складається з нуклеотидів, комплементарних:",
+    "options": [
+      { "label": "A", "text": "3 інтронам", "correct": false },
+      { "label": "B", "text": "4 екзонам", "correct": true },
+      { "label": "C", "text": "1 екзону та 1 інтрону", "correct": false },
+      { "label": "D", "text": "2 екзонам та 1 інтрону", "correct": false },
+      { "label": "E", "text": "4 екзонам та 3 інтронам", "correct": false }
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 22,
+    "section": "Цитологія",
+    "question": "Клітину лабораторної тварини піддали надлишковому рентгенівському опроміненню. У результаті утворилися білкові фрагменти в цитоплазмі. Який органоїд клітини візьме участь у їх утилізації?",
+    "options": [
+      { "label": "A", "text": "Клітинний центр", "correct": false },
+      { "label": "B", "text": "Комплекс Гольджі", "correct": false },
+      { "label": "C", "text": "Лізосоми", "correct": true },
+      { "label": "D", "text": "Ендоплазматичний ретикулум", "correct": false },
+      { "label": "E", "text": "Рибосоми", "correct": false }
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 23,
+    "section": "Цитологія",
+    "question": "Для всіх форм розмноження (статевого та нестатевого) елементарною дискретною одиницею спадковості є:",
+    "options": [
+      { "label": "A", "text": "один нуклеотид", "correct": false },
+      { "label": "B", "text": "один ланцюжок молекули ДНК", "correct": false },
+      { "label": "C", "text": "одна пара нуклеотидів", "correct": false },
+      { "label": "D", "text": "один ген", "correct": true }
+    ],
+    "confidence": "high",
+    "notes": ""
+  }
+]

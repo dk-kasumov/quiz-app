@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "confidence": "medium",
+    "notes": "Hand-drawn loop appears around option C (also matches G1 biology); pen mark is faint.",
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "confidence": "medium",
+    "notes": "Stem spans two columns; pen loop appears around option D (also matches biology), but mark on this option list is faint.",
+    "answer": "D"
+  },
+  {
+    "id": 30,
+    "confidence": "medium",
+    "notes": "C (Каріотип) має чітке коло; на D (Ідіограма) теж є слабка позначка, але C виглядає основним вибором.",
+    "answer": "C"
+  },
+  {
+    "id": 34,
+    "confidence": "low",
+    "notes": "Answer inferred (Процесінг/processing); hand-circle not clearly visible in scan — VERIFY.",
+    "answer": "E"
+  },
+  {
+    "id": 35,
+    "confidence": "medium",
+    "notes": "Option C is printed illegibly (appears as '==='); answer mark (oval) is on D.",
+    "answer": "D"
+  },
+  {
+    "id": 47,
+    "confidence": "medium",
+    "notes": "Option E clearly circled; option D has a faint mark but E is the strong loop.",
+    "answer": "E"
+  },
+  {
+    "id": 56,
+    "confidence": "medium",
+    "notes": "Only options A, B, C visible on this page; question and visible options fully readable, marked answer A clear.",
+    "answer": "A"
+  },
+  {
+    "id": 89,
+    "confidence": "medium",
+    "notes": "Можлива позначка біля варіанту C, але чіткіша петля навколо D; D також відповідає анафазі за змістом.",
+    "answer": "D"
+  },
+  {
+    "id": 141,
+    "confidence": "low",
+    "notes": "Stem number cut off and option left-edges partly clipped; reconstructed. Answer inferred (lysosomes+proteasomes) — VERIFY.",
+    "answer": "A"
+  },
+  {
+    "id": 164,
+    "confidence": "medium",
+    "notes": "Hand mark next to A is a faint loop/curve rather than a full circle.",
+    "answer": "A"
+  }
+]

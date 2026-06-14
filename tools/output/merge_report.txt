@@ -1,0 +1,40 @@
+Files merged: 30
+Unique questions: 173
+Id range: 1..182
+
+MISSING ids (9): [29, 34, 45, 80, 103, 114, 126, 141, 145]
+
+ANSWER CONFLICTS across page reads (0):
+
+NO marked answer (18): [40, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182]
+MULTI marked answer (0): []
+FEWER than 4 options (2): [(56, 3), (138, 2)]
+
+LOW/MEDIUM confidence (27):
+  Q1 [medium]: Hand-drawn loop appears around option C (also matches G1 biology); pen mark is faint.
+  Q11 [medium]: Stem spans two columns; pen loop appears around option D (also matches biology), but mark on this option list is faint.
+  Q30 [medium]: C (Каріотип) має чітке коло; на D (Ідіограма) теж є слабка позначка, але C виглядає основним вибором.
+  Q35 [medium]: Option C is printed illegibly (appears as '==='); answer mark (oval) is on D.
+  Q40 [low]: Жодна позначка (коло) не виявлена для цього питання.
+  Q47 [medium]: Option E clearly circled; option D has a faint mark but E is the strong loop.
+  Q56 [medium]: Only options A, B, C visible on this page; question and visible options fully readable, marked answer A clear.
+  Q89 [medium]: Можлива позначка біля варіанту C, але чіткіша петля навколо D; D також відповідає анафазі за змістом.
+  Q138 [medium]: Питання 138 внизу сторінки; видно лише варіанти A (ДНК) та B (РНК), решта варіантів (за наявності) можуть бути на наступній сторінці.
+  Q164 [medium]: Hand mark next to A is a faint loop/curve rather than a full circle.
+  Q166 [low]: No hand-drawn mark found on any option.
+  Q167 [low]: Right edge of stem slightly clipped; no hand-drawn mark found on any option.
+  Q168 [low]: No hand-drawn answer mark found; only 4 options printed.
+  Q169 [low]: No hand-drawn mark found on any option.
+  Q170 [low]: No hand-drawn mark found on any option.
+  Q171 [low]: No hand-drawn mark found on any option.
+  Q172 [low]: No hand-drawn mark found on any option.
+  Q173 [low]: Right edge of stem clipped; a few words reconstructed from context. No hand-drawn mark found on any option.
+  Q174 [low]: No hand-drawn answer mark found.
+  Q175 [low]: Text clearly readable but no hand-drawn answer mark visible on any option.
+  Q176 [low]: Text clearly readable but no hand-drawn answer mark visible on any option.
+  Q177 [low]: Text clearly readable but no hand-drawn answer mark visible on any option.
+  Q178 [low]: Text clearly readable but no hand-drawn answer mark visible on any option.
+  Q179 [low]: Option E is blank/empty as printed (shown as 'E. -'). Text readable but no hand-drawn answer mark visible.
+  Q180 [low]: Text readable; question stem has printed typo 'Wha tare'. No hand-drawn answer mark visible on any option.
+  Q181 [low]: Question stem partially cut off at column edge and contains printed typos; reconstructed as best readable. No hand-drawn answer mark visible.
+  Q182 [low]: Question stem cut off at column edge (word after 'producing' not fully visible). No hand-drawn answer mark visible on any option.

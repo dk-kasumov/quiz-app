@@ -1,0 +1,156 @@
+[
+  {
+    "id": 115,
+    "section": "Цитологія",
+    "question": "Хромосоми еукаріотичних складаються в основному з хроматину - комплексу дволанцюгової ДНК і п'яти фракцій гістонових білків, що утворюють при цьому нуклеосоми. Який гистон стабілізує нуклеосомну структуру?",
+    "options": [
+      { "label": "A", "text": "H2A", "correct": false },
+      { "label": "B", "text": "H3", "correct": false },
+      { "label": "C", "text": "H1", "correct": true },
+      { "label": "D", "text": "H2B", "correct": false },
+      { "label": "E", "text": "H4", "correct": false }
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 116,
+    "section": "Цитологія",
+    "question": "Під час вивчення каріотипу абортованого зародка було виявлено, що одна з перших хромосом має одне плече і термінальне розміщення центромери. Як називається такий тип хромосоми?",
+    "options": [
+      { "label": "A", "text": "акроцентрична", "correct": false },
+      { "label": "B", "text": "субметацентрична", "correct": false },
+      { "label": "C", "text": "телоцентрична", "correct": true },
+      { "label": "D", "text": "метацентрична", "correct": false },
+      { "label": "E", "text": "ізохромосома", "correct": false }
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 117,
+    "section": "Цитологія",
+    "question": "Існують клітинні і неклітинні форми життя. Які з перерахованих нижче форм відносяться до неклітинних?",
+    "options": [
+      { "label": "A", "text": "Бактерії", "correct": false },
+      { "label": "B", "text": "Віруси", "correct": true },
+      { "label": "C", "text": "Синьо-зелені водорості", "correct": false },
+      { "label": "D", "text": "Мікоплазми", "correct": false },
+      { "label": "E", "text": "Найпростіші", "correct": false }
+    ],
+    "confidence": "medium",
+    "notes": "Faint pen loop next to option B; mark is light but consistent with B."
+  },
+  {
+    "id": 118,
+    "section": "Цитологія",
+    "question": "Для лікування урогенітальних інфекцій використовують хінолони - інгібітори ферменту ДНК-гірази. Який процес порушується під дією хінолонів в першу чергу?",
+    "options": [
+      { "label": "A", "text": "Реплікація ДНК", "correct": true },
+      { "label": "B", "text": "Репарація ДНК", "correct": false },
+      { "label": "C", "text": "Ампліфікація генів", "correct": false },
+      { "label": "D", "text": "Рекомбінація генів", "correct": false },
+      { "label": "E", "text": "Зворотня транскрипция", "correct": false }
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 119,
+    "section": "Цитологія",
+    "question": "Синтез мРНК йде на матриці ДНК з урахуванням принципу комплементарності. Якщо триплети в ДНК наступні - АТГ- ЦГТ, то відповідні кодони мРНК будуть:",
+    "options": [
+      { "label": "A", "text": "ТАГ-УГУ", "correct": false },
+      { "label": "B", "text": "АУГ-ЦГУ", "correct": false },
+      { "label": "C", "text": "АТГ-ЦГТ", "correct": false },
+      { "label": "D", "text": "УАГ-ЦГУ", "correct": false },
+      { "label": "E", "text": "УАЦ-ГЦА", "correct": true }
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 120,
+    "section": "Цитологія",
+    "question": "В пробірку, яка містить розчин NaCl 0,9%, добавлена крапля крові. Що відбудеться з еритроцитами?",
+    "options": [
+      { "label": "A", "text": "Залишаться без змін", "correct": true },
+      { "label": "B", "text": "Осмотичний гемоліз", "correct": false },
+      { "label": "C", "text": "Біологічний гемоліз", "correct": false },
+      { "label": "D", "text": "Зморщення", "correct": false },
+      { "label": "E", "text": "Набрякання", "correct": false }
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 121,
+    "section": "Цитологія",
+    "question": "Досліджуються органели клітини, які забезпечують пластичний обмін речовин. Які з них утворюють первинний ланцюг харчування для гетеротрофних організмів?",
+    "options": [
+      { "label": "A", "text": "Пластиди", "correct": true },
+      { "label": "B", "text": "Лізосоми", "correct": false },
+      { "label": "C", "text": "Пероксисоми", "correct": false },
+      { "label": "D", "text": "Центросома", "correct": false },
+      { "label": "E", "text": "Рибосоми", "correct": false }
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 122,
+    "section": "Цитологія",
+    "question": "Дослідник вивчає функцію органел клітини. Які з них здатні перетворити один вид енергії в інший?",
+    "options": [
+      { "label": "A", "text": "Ендоплазматична сітка", "correct": false },
+      { "label": "B", "text": "Мікротрубочки", "correct": false },
+      { "label": "C", "text": "Центросома", "correct": false },
+      { "label": "D", "text": "Мітохондрії", "correct": true },
+      { "label": "E", "text": "Рибосоми", "correct": false }
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 123,
+    "section": "Цитологія",
+    "question": "Вчені вивчають структуру ДНК. Виявлено, що відбулася заміна кількох пуринових нуклеотидів на інші пуринові. Яка це мутація?",
+    "options": [
+      { "label": "A", "text": "Трансверсія", "correct": false },
+      { "label": "B", "text": "Інсерція", "correct": false },
+      { "label": "C", "text": "Транзиция", "correct": true },
+      { "label": "D", "text": "Експансія", "correct": false },
+      { "label": "E", "text": "Інверсія", "correct": false }
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 124,
+    "section": "Цитологія",
+    "question": "Генетики багато років вивчають структуру і функції хромосом людини. Встановлено, що деякі з них забезпечують утворення ядерцевого організатора, що, в свою чергу, визначає утворення рибосом. Визначте ці хромосоми.",
+    "options": [
+      { "label": "A", "text": "Метацентричні", "correct": false },
+      { "label": "B", "text": "Супутникові", "correct": true },
+      { "label": "C", "text": "Субметацентричні", "correct": false },
+      { "label": "D", "text": "Телоцентричні", "correct": false },
+      { "label": "E", "text": "Статеві", "correct": false }
+    ],
+    "confidence": "medium",
+    "notes": "Pen loop sits between options B and C; marked B (Супутникові) as it forms the nucleolar organizer, but loop position is slightly ambiguous."
+  },
+  {
+    "id": 125,
+    "section": "Цитологія",
+    "question": "У лабораторії вірусну РНК обробили азотною кислотою, що призвело до заміни пурину гуаніну на піримідин цитозин. Якого типу ця мутація?",
+    "options": [
+      { "label": "A", "text": "Трансверсія", "correct": true },
+      { "label": "B", "text": "Інверсія", "correct": false },
+      { "label": "C", "text": "Транзіція", "correct": false },
+      { "label": "D", "text": "Делеція нуклеотиду", "correct": false },
+      { "label": "E", "text": "Вставка нуклеотиду", "correct": false }
+    ],
+    "confidence": "high",
+    "notes": ""
+  }
+]

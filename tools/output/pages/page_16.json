@@ -1,0 +1,113 @@
+[
+  {
+    "id": 175,
+    "section": "Цитологія",
+    "question": "A 36-year-old male comes to the dental office for extraction of the tooth. Two weeks after the procedure is performed, the stratified squamous epithelium regenerates at the site of extraction. Which of the following organelles is most likely involved in the mucosa regeneration?",
+    "options": [
+      { "label": "A", "text": "Ribosomes", "correct": false },
+      { "label": "B", "text": "Centrosomes", "correct": false },
+      { "label": "C", "text": "Lysosomes", "correct": false },
+      { "label": "D", "text": "Smooth endoplasmic reticulum", "correct": false },
+      { "label": "E", "text": "Mitochondria", "correct": false }
+    ],
+    "confidence": "low",
+    "notes": "Text clearly readable but no hand-drawn answer mark visible on any option."
+  },
+  {
+    "id": 176,
+    "section": "Цитологія",
+    "question": "Name the sequence of special functional DNA segments and structural genes that encode synthesis of a certain group of proteins that belong to one metabolic series.",
+    "options": [
+      { "label": "A", "text": "Operon", "correct": false },
+      { "label": "B", "text": "Promoter", "correct": false },
+      { "label": "C", "text": "Operator", "correct": false },
+      { "label": "D", "text": "Terminator", "correct": false },
+      { "label": "E", "text": "Regulator gene", "correct": false }
+    ],
+    "confidence": "low",
+    "notes": "Text clearly readable but no hand-drawn answer mark visible on any option."
+  },
+  {
+    "id": 177,
+    "section": "Цитологія",
+    "question": "Biochemical analysis of amino acid composition of freshly synthesized polypeptides shows that in the process of translation, in each of these proteins the first amino acid is always the same one. Name this amino acid.",
+    "options": [
+      { "label": "A", "text": "Methionine", "correct": false },
+      { "label": "B", "text": "Isoleucine", "correct": false },
+      { "label": "C", "text": "Serine", "correct": false },
+      { "label": "D", "text": "Phenylalanine", "correct": false },
+      { "label": "E", "text": "Histidine", "correct": false }
+    ],
+    "confidence": "low",
+    "notes": "Text clearly readable but no hand-drawn answer mark visible on any option."
+  },
+  {
+    "id": 178,
+    "section": "Цитологія",
+    "question": "In an experiment, despiralization of the DNA molecule was disrupted in an animal cell. What processes will primarily stop occurring in this cell?",
+    "options": [
+      { "label": "A", "text": "Transcription", "correct": false },
+      { "label": "B", "text": "Processing", "correct": false },
+      { "label": "C", "text": "Translation", "correct": false },
+      { "label": "D", "text": "Repair", "correct": false },
+      { "label": "E", "text": "Termination", "correct": false }
+    ],
+    "confidence": "low",
+    "notes": "Text clearly readable but no hand-drawn answer mark visible on any option."
+  },
+  {
+    "id": 179,
+    "section": "Цитологія",
+    "question": "A team of medical students is performing research on phases of cell cycle. During one of the mitotic phases the cell is nearly done dividing, the chromosomes decondense and two nuclei begin to form around them. Which of the following phases most likely takes place in the cell?",
+    "options": [
+      { "label": "A", "text": "Telophase", "correct": false },
+      { "label": "B", "text": "Prophase", "correct": false },
+      { "label": "C", "text": "Metaphase", "correct": false },
+      { "label": "D", "text": "Anaphase", "correct": false }
+    ],
+    "confidence": "low",
+    "notes": "Option E is blank/empty as printed (shown as 'E. -'). Text readable but no hand-drawn answer mark visible."
+  },
+  {
+    "id": 180,
+    "section": "Цитологія",
+    "question": "Some motile cells of multicellular organisms have special organelles that are thin extensions of cytoplasm, containing a bundle of microtubules - an axial filament or axoneme. Wha tare these organelles called?",
+    "options": [
+      { "label": "A", "text": "Stereocilia and kinocilia", "correct": false },
+      { "label": "B", "text": "Microtubules", "correct": false },
+      { "label": "C", "text": "Microvilli", "correct": false },
+      { "label": "D", "text": "Undulating membrane", "correct": false },
+      { "label": "E", "text": "Flagella", "correct": false }
+    ],
+    "confidence": "low",
+    "notes": "Text readable; question stem has printed typo 'Wha tare'. No hand-drawn answer mark visible on any option."
+  },
+  {
+    "id": 181,
+    "section": "Цитологія",
+    "question": "Transcription id the process of that uses DNA as a matrix. Name transcription.",
+    "options": [
+      { "label": "A", "text": "Processing, splicing, termination", "correct": false },
+      { "label": "B", "text": "Initiation, elongation, termination", "correct": false },
+      { "label": "C", "text": "Initiation, elongation, translation", "correct": false },
+      { "label": "D", "text": "Initiation, processing, splicing", "correct": false },
+      { "label": "E", "text": "Initiation, translation, elongation", "correct": false }
+    ],
+    "confidence": "low",
+    "notes": "Question stem partially cut off at column edge and contains printed typos; reconstructed as best readable. No hand-drawn answer mark visible."
+  },
+  {
+    "id": 182,
+    "section": "Цитологія",
+    "question": "What process allows producing d from single primary transcript?",
+    "options": [
+      { "label": "A", "text": "ADP-ribosylation", "correct": false },
+      { "label": "B", "text": "Covalent modification", "correct": false },
+      { "label": "C", "text": "Alternative splicing", "correct": false },
+      { "label": "D", "text": "Polyadenilation", "correct": false },
+      { "label": "E", "text": "Limited proteolysis", "correct": false }
+    ],
+    "confidence": "low",
+    "notes": "Question stem cut off at column edge (word after 'producing' not fully visible). No hand-drawn answer mark visible on any option."
+  }
+]

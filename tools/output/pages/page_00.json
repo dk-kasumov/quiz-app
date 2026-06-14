@@ -1,0 +1,240 @@
+[
+  {
+    "id": 1,
+    "section": "Цитологія",
+    "question": "Для лабораторних досліджень отримали клітини червоного кісткового мозку. Вони належать до клітинних комплексів, які оновлюються. Визначте набір хромосом і кількість ДНК (хроматид), які характерні для G₁-періоду в цих клітинах:",
+    "options": [
+      {"label": "A", "text": "2n, 4c", "correct": false},
+      {"label": "B", "text": "2n, 1c", "correct": false},
+      {"label": "C", "text": "2n, 2c", "correct": true},
+      {"label": "D", "text": "1n, 1c", "correct": false},
+      {"label": "E", "text": "1n, 2c", "correct": false}
+    ],
+    "confidence": "medium",
+    "notes": "Hand-drawn loop appears around option C (also matches G1 biology); pen mark is faint."
+  },
+  {
+    "id": 2,
+    "section": "Цитологія",
+    "question": "Під мікроскопом видно, що в клітині зруйнована оболонка ядра, короткі хромосоми у вигляді букви Х розташовані у центральній частині клітини. На якій стадії поділу знаходиться клітина?",
+    "options": [
+      {"label": "A", "text": "Профаза", "correct": false},
+      {"label": "B", "text": "Анафаза", "correct": false},
+      {"label": "C", "text": "Інтерфаза", "correct": false},
+      {"label": "D", "text": "Метафаза", "correct": true},
+      {"label": "E", "text": "Телофаза", "correct": false}
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "section": "Цитологія",
+    "question": "За допомогою мікроманіпулятора з клітини видалили комплекс Гольджі. Як це позначиться на подальшій життєдіяльності клітини?",
+    "options": [
+      {"label": "A", "text": "Порушиться процес мітозу", "correct": false},
+      {"label": "B", "text": "Порушиться процес утворення лізосом, їх дозрівання та виділення секреторних продуктів клітини", "correct": true},
+      {"label": "C", "text": "Порушиться утворення рибосом и синтез білків", "correct": false},
+      {"label": "D", "text": "Відбудеться аутоліз, що приведе до загибелі клітини", "correct": false},
+      {"label": "E", "text": "Порушаться процеси енергетичного обміну клітини", "correct": false}
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "section": "Цитологія",
+    "question": "За допомогою шпателю було зроблено зішкріб слизової рота людини. У незруйнованих епітеліальних клітинах пофарбованого мазка добре видно овальні ядра, неоднакові за розміром. Яким шляхом відбувався поділ цих клітин?",
+    "options": [
+      {"label": "A", "text": "Мітоз", "correct": false},
+      {"label": "B", "text": "Мейоз", "correct": false},
+      {"label": "C", "text": "Бінарний поділ", "correct": false},
+      {"label": "D", "text": "Шизогонія", "correct": false},
+      {"label": "E", "text": "Амітоз", "correct": true}
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 5,
+    "section": "Цитологія",
+    "question": "Мікроорганізми, які відносяться до прокаріотів, мають такі структури:",
+    "options": [
+      {"label": "A", "text": "мітохондрії", "correct": false},
+      {"label": "B", "text": "нуклеоїд", "correct": true},
+      {"label": "C", "text": "хлоропласти", "correct": false},
+      {"label": "D", "text": "лізосоми", "correct": false},
+      {"label": "E", "text": "ендоплазматичний ретикулум", "correct": false}
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 6,
+    "section": "Цитологія",
+    "question": "На гістологічному препараті видно соматичну клітину людини, яка перебуває у метафазі мітотичного поділу. Скільки хромосом входить до складу метафазної пластинки, знаючи те, що кожна хромосома містить дві сестринські хроматиди?",
+    "options": [
+      {"label": "A", "text": "46 хромосом", "correct": true},
+      {"label": "B", "text": "92 хромосоми", "correct": false},
+      {"label": "C", "text": "48 хромосоми", "correct": false},
+      {"label": "D", "text": "23 хромосоми", "correct": false},
+      {"label": "E", "text": "24 хромосоми", "correct": false}
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 7,
+    "section": "Цитологія",
+    "question": "У живильне середовище з клітинами, здатними до мітотичного поділу, внесли тимін з радіоактивною міткою. Про що може свідчити велика кількість тиміну, який візуалізується в ядрах клітин під час радіоавтографічного дослідження?",
+    "options": [
+      {"label": "A", "text": "Про малу кількість клітин, які знаходяться в інтерфазі", "correct": false},
+      {"label": "B", "text": "Про велику кількість клітин, які знаходяться у синтетичному періоді інтерфази", "correct": true},
+      {"label": "C", "text": "Про велику мітотичну активність", "correct": false},
+      {"label": "D", "text": "Про малу кількість клітин, які знаходяться у пресинтетичному періоді інтерфази", "correct": false},
+      {"label": "E", "text": "Про велику кількість клітин, які знаходяться в інтерфазі", "correct": false}
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 8,
+    "section": "Цитологія",
+    "question": "Після проходження мітозу у дочірніх клітинах окремі органели утворюються de novo, інші тільки шляхом подвоєння існуючих. Вкажіть, які з представлених нижче органел мають здатність до самоподвоєння:",
+    "options": [
+      {"label": "A", "text": "гранулярна ендоплазматична сітка", "correct": false},
+      {"label": "B", "text": "рибосоми", "correct": false},
+      {"label": "C", "text": "пластинчастий комплекс Гольджі", "correct": false},
+      {"label": "D", "text": "агранулярна ендоплазматична сітка", "correct": false},
+      {"label": "E", "text": "мітохондрії", "correct": true}
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 9,
+    "section": "Цитологія",
+    "question": "На культуру пухлинних клітин подіяли колхіцином, який блокує синтез білків тубуліну, що утворюють веретена поділу. Які етапи клітинного циклу будуть порушені?",
+    "options": [
+      {"label": "A", "text": "Мітоз", "correct": true},
+      {"label": "B", "text": "G-нульовий період", "correct": false},
+      {"label": "C", "text": "Пресинтетичний період", "correct": false},
+      {"label": "D", "text": "Постсинтетичний період", "correct": false},
+      {"label": "E", "text": "Синтетичний період", "correct": false}
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 10,
+    "section": "Цитологія",
+    "question": "Протягом життя (від поділу до загибелі) клітина знаходиться на різних фазах клітинного циклу - інтерфаза переходить у мітоз. Який білок виробляється в клітині і регулює її перехід до мітозу?",
+    "options": [
+      {"label": "A", "text": "Десмін", "correct": false},
+      {"label": "B", "text": "Циклін", "correct": true},
+      {"label": "C", "text": "Кератин", "correct": false},
+      {"label": "D", "text": "Виментин", "correct": false},
+      {"label": "E", "text": "Тубулін", "correct": false}
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 11,
+    "section": "Цитологія",
+    "question": "Хворому було призначено кортизон, який стимулює синтез білків. Які зміни відбудуться в ядрах клітин при стимуляції синтезу білків?",
+    "options": [
+      {"label": "A", "text": "Збільшиться перинуклеарний простір", "correct": false},
+      {"label": "B", "text": "Зменшиться перинуклеарний простір", "correct": false},
+      {"label": "C", "text": "Збільшиться кількість гетерохроматину", "correct": false},
+      {"label": "D", "text": "Збільшиться кількість еухроматину", "correct": true},
+      {"label": "E", "text": "Зменшиться кількість ядерних пор", "correct": false}
+    ],
+    "confidence": "medium",
+    "notes": "Stem spans two columns; pen loop appears around option D (also matches biology), but mark on this option list is faint."
+  },
+  {
+    "id": 12,
+    "section": "Цитологія",
+    "question": "На електронограмі клітини печінки щось добре помітні структури овальної форми, двомембранні, внутрішня мембрана утворює кристи. Які це органели?",
+    "options": [
+      {"label": "A", "text": "Пероксисоми", "correct": false},
+      {"label": "B", "text": "Мітохондрії", "correct": true},
+      {"label": "C", "text": "Центросоми", "correct": false},
+      {"label": "D", "text": "Рибосоми", "correct": false},
+      {"label": "E", "text": "Лізосоми", "correct": false}
+    ],
+    "confidence": "medium",
+    "notes": "Stem partly hard to read near right page edge; one word in the stem uncertain. Mark on B is clear."
+  },
+  {
+    "id": 13,
+    "section": "Цитологія",
+    "question": "Серед мембранних органел клітини є одномембранні і двомембранні. Які мають двомембранну будову?",
+    "options": [
+      {"label": "A", "text": "Мітохондрії, апарат Гольджі", "correct": false},
+      {"label": "B", "text": "Клітинний центр, рибосоми", "correct": false},
+      {"label": "C", "text": "Мітохондрії, пластиди", "correct": true},
+      {"label": "D", "text": "Апарат Гольджі, рибосоми", "correct": false},
+      {"label": "E", "text": "Ендоплазматична сітка, пластиди", "correct": false}
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 14,
+    "section": "Цитологія",
+    "question": "В клітині порушена структура рибосом, які процеси постраждають у першу чергу?",
+    "options": [
+      {"label": "A", "text": "Синтез нуклеїнових кислот", "correct": false},
+      {"label": "B", "text": "Синтез білків", "correct": true},
+      {"label": "C", "text": "Синтез вуглеводів", "correct": false},
+      {"label": "D", "text": "Синтез ліпідів", "correct": false},
+      {"label": "E", "text": "Синтез мінеральних речовин", "correct": false}
+    ],
+    "confidence": "medium",
+    "notes": "End of stem near right page edge slightly cut; reconstructed wording. Mark on B is clear."
+  },
+  {
+    "id": 15,
+    "section": "Цитологія",
+    "question": "Органела клітини має власну генетичну систему. Назвіть її:",
+    "options": [
+      {"label": "A", "text": "апарат Гольджі", "correct": false},
+      {"label": "B", "text": "лізосома", "correct": false},
+      {"label": "C", "text": "вакуоля", "correct": false},
+      {"label": "D", "text": "ендоплазматичний ретикулум", "correct": false},
+      {"label": "E", "text": "мітохондрія", "correct": true}
+    ],
+    "confidence": "medium",
+    "notes": "Stem partly near right edge; reconstructed. Mark on E is clear."
+  },
+  {
+    "id": 16,
+    "section": "Цитологія",
+    "question": "Продукти обміну виводяться за допомогою комплексу Гольджі, з'єднання його мембрани з плазмолемою. Що це за процес?",
+    "options": [
+      {"label": "A", "text": "Осмос", "correct": false},
+      {"label": "B", "text": "Дифузія", "correct": false},
+      {"label": "C", "text": "Ендоцитоз", "correct": false},
+      {"label": "D", "text": "Екзоцитоз", "correct": true},
+      {"label": "E", "text": "Активний транспорт", "correct": false}
+    ],
+    "confidence": "medium",
+    "notes": "Stem near right page edge partly hard to read; reconstructed. Mark on D is clear."
+  },
+  {
+    "id": 17,
+    "section": "Цитологія",
+    "question": "В культурі тканин якщо пошкоджені ядерця ядер у цитоплазмі клітин стане менше чого?",
+    "options": [
+      {"label": "A", "text": "Рибосом", "correct": true},
+      {"label": "B", "text": "Лізосом", "correct": false},
+      {"label": "C", "text": "Комплексу Гольджі", "correct": false},
+      {"label": "D", "text": "Мікротрубочок", "correct": false},
+      {"label": "E", "text": "Ендоплазматичної сітки", "correct": false}
+    ],
+    "confidence": "low",
+    "notes": "Stem runs to right page edge and is partly cut/blurred; wording reconstructed and uncertain. Mark on A is clear."
+  }
+]

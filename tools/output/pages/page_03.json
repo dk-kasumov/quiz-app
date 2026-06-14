@@ -1,0 +1,72 @@
+[
+  {
+    "id": 35,
+    "section": "Цитологія",
+    "question": "Лімфоцит уражений ретровірусом ВІЛ (СНІД). У цьому випадку напрямок потоку інформації в клітині буде:",
+    "options": [
+      {"label": "A", "text": "Поліпептид→ РНК→ДНК→іРНК", "correct": false},
+      {"label": "B", "text": "іРНК→ поліпептид→ДНК", "correct": false},
+      {"label": "C", "text": "===", "correct": false},
+      {"label": "D", "text": "РНК→ДНК→ іРНК→поліпептид", "correct": true},
+      {"label": "E", "text": "ДНК→поліпептид→ іРНК", "correct": false}
+    ],
+    "confidence": "medium",
+    "notes": "Option C is printed illegibly (appears as '==='); answer mark (oval) is on D."
+  },
+  {
+    "id": 36,
+    "section": "Цитологія",
+    "question": "Знаходячись у певній стадії клітинного циклу хромосоми досягають полюсів клітини, деспіралізуються, навколо них формуються ядерні оболонки, відновлюється ядерце. У якій фазі мітозу перебуває клітина?",
+    "options": [
+      {"label": "A", "text": "Прометафаза", "correct": false},
+      {"label": "B", "text": "Профаза", "correct": false},
+      {"label": "C", "text": "Телофаза", "correct": true},
+      {"label": "D", "text": "Метафаза", "correct": false},
+      {"label": "E", "text": "Анафаза", "correct": false}
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 37,
+    "section": "Цитологія",
+    "question": "Досліджуються клітини червоного кісткового мозку людини, що відносяться до клітинного комплексу, який постійно оновлюється. Яким чином в нормі утворюються ці клітини?",
+    "options": [
+      {"label": "A", "text": "мейоз", "correct": false},
+      {"label": "B", "text": "мітоз", "correct": true},
+      {"label": "C", "text": "амітоз", "correct": false},
+      {"label": "D", "text": "шизогонія", "correct": false},
+      {"label": "E", "text": "бінарний поділ", "correct": false}
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 38,
+    "section": "Цитологія",
+    "question": "У клітинах на гранулярних ЕПС відбувається етап трансляції, тобто біосинтез поліпептиду. Послідовність амінокислот у поліпептидах відповідатиме послідовності:",
+    "options": [
+      {"label": "A", "text": "Антикодонів тРНК", "correct": false},
+      {"label": "B", "text": "Кодонів іРНК", "correct": true},
+      {"label": "C", "text": "Нуклеотидів рРНК", "correct": false},
+      {"label": "D", "text": "Антикодонів рРНК", "correct": false},
+      {"label": "E", "text": "Нуклеотидів тРНК", "correct": false}
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 39,
+    "section": "Цитологія",
+    "question": "На електронній мікрофотографії науковець виявив структуру, утворену вісьмома молекулами білків-гістонів і ділянкою молекули ДНК, з 1,75 обертів навколо них. Яку структуру виявив дослідник?",
+    "options": [
+      {"label": "A", "text": "Нуклеосома", "correct": true},
+      {"label": "B", "text": "Хромосома", "correct": false},
+      {"label": "C", "text": "Напівхроматида", "correct": false},
+      {"label": "D", "text": "Хроматида", "correct": false},
+      {"label": "E", "text": "Елементарна фібрила", "correct": false}
+    ],
+    "confidence": "high",
+    "notes": ""
+  }
+]

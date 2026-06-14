@@ -1,0 +1,130 @@
+[
+  {
+    "id": 29,
+    "section": "Цитологія",
+    "question": "Лікар-цитогенетик при виготовленні метафазної пластинки обробив культуру лейкоцитів гіпотонічним (0,56%-ним) розчином хлориду калію. Після цього відбулося набрякання клітини і розрив клітинної мембрани за рахунок надходження води у внутрішнє середовище. Який механізм транспорту має місце в цьому випадку?",
+    "options": [],
+    "confidence": "incomplete",
+    "notes": "Stem readable; OPTIONS CUT OFF at bottom of page 6 in the scan — not recoverable. Likely answer: Осмос."
+  },
+  {
+    "id": 34,
+    "section": "Цитологія",
+    "question": "У ядрі клітини з молекули незрілої іРНК утворилася молекула зрілої іРНК, яка має менший розмір, ніж незріла іРНК. Сукупність етапів цього перетворення називається:",
+    "options": [
+      {"label": "A", "text": "Реплікація", "correct": false},
+      {"label": "B", "text": "Рекогніція", "correct": false},
+      {"label": "C", "text": "Трансляція", "correct": false},
+      {"label": "D", "text": "Термінація", "correct": false},
+      {"label": "E", "text": "Процесінг", "correct": true}
+    ],
+    "confidence": "low",
+    "notes": "Answer inferred (Процесінг/processing); hand-circle not clearly visible in scan — VERIFY."
+  },
+  {
+    "id": 45,
+    "section": "Цитологія",
+    "question": "Під впливом невідомого мутагену, було блоковано фермент ДНК-лігазу, який бере участь у процесі ексцизійної репарації ДНК. Який етап процесу репарації ДНК буде порушений?",
+    "options": [
+      {"label": "A", "text": "Зшивання вбудованих нуклеотидів з ділянкою молекули ДНК", "correct": true},
+      {"label": "B", "text": "Розпізнавання зруйнованої ділянки ДНК та її виділення", "correct": false},
+      {"label": "C", "text": "Вирізання зруйнованої ділянки ДНК", "correct": false},
+      {"label": "D", "text": "Вирізання зруйнованої ділянки ДНК та заміна її на комплементарну ділянку", "correct": false},
+      {"label": "E", "text": "Синтез нової ділянки за принципом комплементарності", "correct": false}
+    ],
+    "confidence": "high",
+    "notes": "Recovered from seam; A clearly circled."
+  },
+  {
+    "id": 80,
+    "section": "Цитологія",
+    "question": "Було проведено оперативне втручання. На місці розрізу утворився рубець. Вкажіть, які органели найбільш активні при відновленні епітеліальної тканини, виходячи з виконуваних ними функцій:",
+    "options": [
+      {"label": "A", "text": "рибосоми", "correct": false},
+      {"label": "B", "text": "центросоми", "correct": false},
+      {"label": "C", "text": "постлізосоми", "correct": false},
+      {"label": "D", "text": "лізосоми", "correct": false},
+      {"label": "E", "text": "комплекс Гольджі", "correct": false}
+    ],
+    "confidence": "low",
+    "notes": "Full text recovered, but NO hand-drawn answer mark found (left blank by student)."
+  },
+  {
+    "id": 103,
+    "section": "Цитологія",
+    "question": "При вивченні макрофагів хворого на черевний тиф у цитоплазмі цих клітин виявлено велику кількість бактерій. Яким чином бактерії проникають в клітку?",
+    "options": [
+      {"label": "A", "text": "шляхом фагоцитозу", "correct": true},
+      {"label": "B", "text": "за рахунок пасивного транспорту", "correct": false},
+      {"label": "C", "text": "через K-Na-насоси", "correct": false},
+      {"label": "D", "text": "шляхом піноцитозу", "correct": false},
+      {"label": "E", "text": "за рахунок дифузії", "correct": false}
+    ],
+    "confidence": "high",
+    "notes": "Recovered from seam; A clearly circled."
+  },
+  {
+    "id": 114,
+    "section": "Цитологія",
+    "question": "На рибосомі утворилася прямолінійна структура білка, яка не має метаболічну активність. В процесі \"дозрівання\" вона може втратити кінцеві амінокислоти, утворити третинні і четвертинні структури, з'єднатися з вуглеводними або ліпідними молекулами. Як називаються процеси перетворення первинної структури поліпептиду і формування метаболічно активних білків?",
+    "options": [
+      {"label": "A", "text": "Індукована трансляція", "correct": false},
+      {"label": "B", "text": "Білкова термінація", "correct": false},
+      {"label": "C", "text": "Поліпептидна елонгація", "correct": false},
+      {"label": "D", "text": "Транслокація", "correct": false},
+      {"label": "E", "text": "Посттрансляційна модифікація", "correct": true}
+    ],
+    "confidence": "high",
+    "notes": "Recovered from seam; E clearly circled."
+  },
+  {
+    "id": 126,
+    "section": "Цитологія",
+    "question": "Існування життя на всіх його рівнях визначається структурою нижчого рівня. Який рівень організації живого є вихідним для існування клітинного рівня життя?",
+    "options": [
+      {"label": "A", "text": "Тканинний", "correct": false},
+      {"label": "B", "text": "Організменний", "correct": false},
+      {"label": "C", "text": "Біоценотичний", "correct": false},
+      {"label": "D", "text": "Популяційно-видовий", "correct": false},
+      {"label": "E", "text": "Молекулярний", "correct": true}
+    ],
+    "confidence": "high",
+    "notes": "Recovered from seam; E clearly circled."
+  },
+  {
+    "id": 138,
+    "section": "Цитологія",
+    "question": "Серед органічних речовин клітини знайдений полімер, що складається з десятків, сотень і тисяч мономерів. Молекула здатна самовідтворюватись і бути носієм інформації. За допомогою рентгеноструктурного аналізу виявлено, що молекула складається з двох спірально закручених ниток. Яка це сполука?",
+    "options": [
+      {"label": "A", "text": "ДНК", "correct": true},
+      {"label": "B", "text": "РНК", "correct": false},
+      {"label": "C", "text": "Целюлоза", "correct": false},
+      {"label": "D", "text": "Вуглевод", "correct": false},
+      {"label": "E", "text": "Гормон", "correct": false}
+    ],
+    "confidence": "high",
+    "notes": "Options C-E recovered from top of page 13; A clearly circled."
+  },
+  {
+    "id": 141,
+    "section": "Цитологія",
+    "question": "На електронній мікрофотографії клітини видно дві різні органели, які руйнують білки. Як вони називаються?",
+    "options": [
+      {"label": "A", "text": "Лізосоми та протеасоми", "correct": true},
+      {"label": "B", "text": "Комплекс Гольджі та мікротрубочки", "correct": false},
+      {"label": "C", "text": "Ендосома", "correct": false},
+      {"label": "D", "text": "Пероксисоми та рибосоми", "correct": false},
+      {"label": "E", "text": "Ендоплазматична сітка та мікрофіламенти", "correct": false}
+    ],
+    "confidence": "low",
+    "notes": "Stem number cut off and option left-edges partly clipped; reconstructed. Answer inferred (lysosomes+proteasomes) — VERIFY."
+  },
+  {
+    "id": 145,
+    "section": "Цитологія",
+    "question": "Під час дослідження фаз клітинного циклу, на одній із стадій мітозу клітина майже завершила поділ, а хромосоми, навколо яких починають формуватися ядра, деспіралізуються. Укажіть фазу клітинного циклу.",
+    "options": [],
+    "confidence": "incomplete",
+    "notes": "Stem readable; OPTIONS CUT OFF at bottom of page 16 in the scan — not recoverable. Likely answer: Телофаза."
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "id": 163,
+    "section": "Цитологія",
+    "question": "Процес тканинного дихання супроводжується окисненням органічних сполук і синтезом макроергічних молекул. У яких ораgenelах відбувається цей процес?",
+    "options": [
+      { "label": "A", "text": "Рибосомах", "correct": false },
+      { "label": "B", "text": "Лізосомах", "correct": false },
+      { "label": "C", "text": "Пероксисомах", "correct": false },
+      { "label": "D", "text": "Комплексі Гольджі", "correct": false },
+      { "label": "E", "text": "Мітохондріях", "correct": true }
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 164,
+    "section": "Цитологія",
+    "question": "An experiment has demonstrated that after exposure to ultraviolet radiation the dermal cells of the patients with xeroderma pigmentosum are slower to restore the native DNA structure than they are in the healthy individuals due to deficiency of the DNA repair enzyme. What enzyme takes part in the repair process?",
+    "options": [
+      { "label": "A", "text": "Endonuclease", "correct": true },
+      { "label": "B", "text": "RNA ligase", "correct": false },
+      { "label": "C", "text": "Primase", "correct": false },
+      { "label": "D", "text": "DNA polymerase III holoenzyme", "correct": false },
+      { "label": "E", "text": "DNA gyrase", "correct": false }
+    ],
+    "confidence": "medium",
+    "notes": "Faint hand-drawn loop to the left of option A."
+  },
+  {
+    "id": 165,
+    "section": "Цитологія",
+    "question": "Under the influence of physical factors, damage can occur in the DNA molecule. Ultraviolet rays cause the appearance of dimers in it. They are two adjacent pyrimidine bases. Indicate them:",
+    "options": [
+      { "label": "A", "text": "Adenine and thymine", "correct": false },
+      { "label": "B", "text": "Thymine and cytosine", "correct": true },
+      { "label": "C", "text": "Guanine and cytosine", "correct": false },
+      { "label": "D", "text": "Adenine and guanine", "correct": false },
+      { "label": "E", "text": "Guanine and thymine", "correct": false }
+    ],
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "id": 166,
+    "section": "Цитологія",
+    "question": "Hereditary information is stored in DNA, but does not directly participate in the synthesis of proteins in cells. What process ensures the implementation of hereditary information in the polypeptide chain?",
+    "options": [
+      { "label": "A", "text": "Translation", "correct": false },
+      { "label": "B", "text": "Formation of p-RNA", "correct": false },
+      { "label": "C", "text": "Formation of t-RNA", "correct": false },
+      { "label": "D", "text": "Formation of i-RNA", "correct": false },
+      { "label": "E", "text": "Replication", "correct": false }
+    ],
+    "confidence": "low",
+    "notes": "No hand-drawn answer mark found."
+  },
+  {
+    "id": 167,
+    "section": "Цитологія",
+    "question": "The cytochemical test revealed a high content of hydrolytic enzymes in the cytoplasm. The high activity of some organelles is evidenced by the fact?",
+    "options": [
+      { "label": "A", "text": "Lysosomes", "correct": false },
+      { "label": "B", "text": "The Cellular Center", "correct": false },
+      { "label": "C", "text": "Endoplasmic reticulum", "correct": false },
+      { "label": "D", "text": "Polysomes", "correct": false },
+      { "label": "E", "text": "Mitochondria", "correct": false }
+    ],
+    "confidence": "low",
+    "notes": "No hand-drawn answer mark found."
+  },
+  {
+    "id": 168,
+    "section": "Цитологія",
+    "question": "In a dental clinic a 36-year-old patient underwent tooth extraction. Two weeks later, the regeneration of multilayer flat epithelium occurred at this site. What organelles took part in the restoration of the mucosa?",
+    "options": [
+      { "label": "A", "text": "Postlistosomes", "correct": false },
+      { "label": "B", "text": "Centrosomes", "correct": false },
+      { "label": "C", "text": "Ribosomes", "correct": false },
+      { "label": "D", "text": "Smooth EPR", "correct": false }
+    ],
+    "confidence": "low",
+    "notes": "No hand-drawn answer mark found; only 4 options printed."
+  },
+  {
+    "id": 169,
+    "section": "Цитологія",
+    "question": "A chromosome set of a woman has a chromosome, in which the shoulders p and q are of equal length. What is the morphological type of this chromosome?",
+    "options": [
+      { "label": "A", "text": "Metacentric", "correct": false },
+      { "label": "B", "text": "Acrocentric", "correct": false },
+      { "label": "C", "text": "Submetacentric", "correct": false },
+      { "label": "D", "text": "Telocentric", "correct": false },
+      { "label": "E", "text": "Subacrocentric", "correct": false }
+    ],
+    "confidence": "low",
+    "notes": "No hand-drawn answer mark found."
+  },
+  {
+    "id": 170,
+    "section": "Цитологія",
+    "question": "An electron microscopy of cytoplasm (near the nucleus. revealed an organelle consisting of 5-10 flat cisternae with expanded peripheral parts and detached by small bubbles – lysosomes. Name this organelle:",
+    "options": [
+      { "label": "A", "text": "Cytocentrum", "correct": false },
+      { "label": "B", "text": "Ribosome", "correct": false },
+      { "label": "C", "text": "Mitochondrion", "correct": false },
+      { "label": "D", "text": "Cytoskeleton", "correct": false },
+      { "label": "E", "text": "Golgi apparatus", "correct": false }
+    ],
+    "confidence": "low",
+    "notes": "No hand-drawn answer mark found."
+  },
+  {
+    "id": 171,
+    "section": "Цитологія",
+    "question": "In the life cycle of a cell during mitosis natural change in the amount of genetic material occurs. The DNA doubles at the following stage:",
+    "options": [
+      { "label": "A", "text": "Interphase", "correct": false },
+      { "label": "B", "text": "Prophase", "correct": false },
+      { "label": "C", "text": "Metaphase", "correct": false },
+      { "label": "D", "text": "Anaphase", "correct": false },
+      { "label": "E", "text": "Telophase", "correct": false }
+    ],
+    "confidence": "low",
+    "notes": "No hand-drawn answer mark found."
+  },
+  {
+    "id": 172,
+    "section": "Цитологія",
+    "question": "In the human cell, into the granular endoplasmic reticulum, an RNA containing both exon and intron sections was delivered to the ribosomes. What process does not happen?",
+    "options": [
+      { "label": "A", "text": "Processing", "correct": false },
+      { "label": "B", "text": "Replication", "correct": false },
+      { "label": "C", "text": "Transcription", "correct": false },
+      { "label": "D", "text": "Broadcasting", "correct": false },
+      { "label": "E", "text": "Prolongation", "correct": false }
+    ],
+    "confidence": "low",
+    "notes": "No hand-drawn answer mark found."
+  },
+  {
+    "id": 173,
+    "section": "Цитологія",
+    "question": "Streptomycin and other aminoglycosides prevent the joining of formylmethionyl-tRNA by bonding with the 30S ribosomal subunit. This effect leads to disruption of the following process:",
+    "options": [
+      { "label": "A", "text": "Translation initiation in eucaryotes", "correct": false },
+      { "label": "B", "text": "Translation initiation in procaryotes", "correct": false },
+      { "label": "C", "text": "Transcription initiation in procaryotes", "correct": false },
+      { "label": "D", "text": "Transcription initiation in eucaryotes", "correct": false },
+      { "label": "E", "text": "Replication initiation in prokaryotes", "correct": false }
+    ],
+    "confidence": "low",
+    "notes": "No hand-drawn answer mark found."
+  },
+  {
+    "id": 174,
+    "section": "Цитологія",
+    "question": "A patient has decreased concentration of magnesium ions that are required for ribosomes connection to granular endoplasmic reticulum. This condition is known to disturb the process of protein biosynthesis. Disturbance occurs at the following stage:",
+    "options": [
+      { "label": "A", "text": "Translation", "correct": false },
+      { "label": "B", "text": "Transcription", "correct": false },
+      { "label": "C", "text": "Replication", "correct": false },
+      { "label": "D", "text": "Amino acids activation", "correct": false },
+      { "label": "E", "text": "Processing", "correct": false }
+    ],
+    "confidence": "low",
+    "notes": "No hand-drawn answer mark found."
+  }
+]

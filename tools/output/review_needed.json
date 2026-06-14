@@ -1,0 +1,654 @@
+[
+  {
+    "id": 29,
+    "section": "Цитологія",
+    "question": "Лікар-цитогенетик при виготовленні метафазної пластинки обробив культуру лейкоцитів гіпотонічним (0,56%-ним) розчином хлориду калію. Після цього відбулося набрякання клітини і розрив клітинної мембрани за рахунок надходження води у внутрішнє середовище. Який механізм транспорту має місце в цьому випадку?",
+    "options": [],
+    "reason": "options cut off / missing",
+    "notes": "Stem readable; OPTIONS CUT OFF at bottom of page 6 in the scan — not recoverable. Likely answer: Осмос."
+  },
+  {
+    "id": 40,
+    "section": "Цитологія",
+    "question": "На практичному занятті з біології клітини студенти вивчали плазматичну мембрану. На електронній фотографії помітні макромолекули, які зв'язуються зі специфічними рецепторами на її поверхні. Яким шляхом вони потрапляють до клітини?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Завдяки ендоцитозу",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Через йонні канали",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Шляхом пасивного транспорту",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "За допомогою білків-переносників, рух яких нагадує двері, що обертаються",
+        "correct": false
+      },
+      {
+        "label": "E",
+        "text": "Завдяки роботі натрієво-калієвого насосу",
+        "correct": false
+      }
+    ],
+    "reason": "no marked answer",
+    "notes": "Жодна позначка (коло) не виявлена для цього питання."
+  },
+  {
+    "id": 80,
+    "section": "Цитологія",
+    "question": "Було проведено оперативне втручання. На місці розрізу утворився рубець. Вкажіть, які органели найбільш активні при відновленні епітеліальної тканини, виходячи з виконуваних ними функцій:",
+    "options": [
+      {
+        "label": "A",
+        "text": "рибосоми",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "центросоми",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "постлізосоми",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "лізосоми",
+        "correct": false
+      },
+      {
+        "label": "E",
+        "text": "комплекс Гольджі",
+        "correct": false
+      }
+    ],
+    "reason": "no marked answer",
+    "notes": "Full text recovered, but NO hand-drawn answer mark found (left blank by student)."
+  },
+  {
+    "id": 145,
+    "section": "Цитологія",
+    "question": "Під час дослідження фаз клітинного циклу, на одній із стадій мітозу клітина майже завершила поділ, а хромосоми, навколо яких починають формуватися ядра, деспіралізуються. Укажіть фазу клітинного циклу.",
+    "options": [],
+    "reason": "options cut off / missing",
+    "notes": "Stem readable; OPTIONS CUT OFF at bottom of page 16 in the scan — not recoverable. Likely answer: Телофаза."
+  },
+  {
+    "id": 166,
+    "section": "Цитологія",
+    "question": "Hereditary information is stored in DNA, but does not directly participate in the synthesis of proteins in cells. What process ensures the implementation of hereditary information in the polypeptide chain?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Translation",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Formation of p-RNA",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Formation of t-RNA",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Formation of i-RNA",
+        "correct": false
+      },
+      {
+        "label": "E",
+        "text": "Replication",
+        "correct": false
+      }
+    ],
+    "reason": "no marked answer",
+    "notes": "No hand-drawn mark found on any option."
+  },
+  {
+    "id": 167,
+    "section": "Цитологія",
+    "question": "The cytochemical test revealed a high content of hydrolytic enzymes in the cytoplasm. The high activity of some organelles is evidenced by the fact?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lysosomes",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "The Cellular Center",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Endoplasmic reticulum",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Polysomes",
+        "correct": false
+      },
+      {
+        "label": "E",
+        "text": "Mitochondria",
+        "correct": false
+      }
+    ],
+    "reason": "no marked answer",
+    "notes": "Right edge of stem slightly clipped; no hand-drawn mark found on any option."
+  },
+  {
+    "id": 168,
+    "section": "Цитологія",
+    "question": "In a dental clinic a 36-year-old patient underwent tooth extraction. Two weeks later, the regeneration of multilayer flat epithelium occurred at this site. What organelles took part in the restoration of the mucosa?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Postlistosomes",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Centrosomes",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Ribosomes",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Smooth EPR",
+        "correct": false
+      }
+    ],
+    "reason": "no marked answer",
+    "notes": "No hand-drawn answer mark found; only 4 options printed."
+  },
+  {
+    "id": 169,
+    "section": "Цитологія",
+    "question": "A chromosome set of a woman has a chromosome, in which the shoulders p and q are of equal length. What is the morphological type of this chromosome?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Metacentric",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Acrocentric",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Submetacentric",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Telocentric",
+        "correct": false
+      },
+      {
+        "label": "E",
+        "text": "Subacrocentric",
+        "correct": false
+      }
+    ],
+    "reason": "no marked answer",
+    "notes": "No hand-drawn mark found on any option."
+  },
+  {
+    "id": 170,
+    "section": "Цитологія",
+    "question": "An electron microscopy of cytoplasm (near the nucleus. revealed an organelle consisting of 5-10 flat cisternae with expanded peripheral parts and detached by small bubbles – lysosomes. Name this organelle:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cytocentrum",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Ribosome",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Mitochondrion",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Cytoskeleton",
+        "correct": false
+      },
+      {
+        "label": "E",
+        "text": "Golgi apparatus",
+        "correct": false
+      }
+    ],
+    "reason": "no marked answer",
+    "notes": "No hand-drawn mark found on any option."
+  },
+  {
+    "id": 171,
+    "section": "Цитологія",
+    "question": "In the life cycle of a cell during mitosis natural change in the amount of genetic material occurs. The DNA doubles at the following stage:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Interphase",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Prophase",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Metaphase",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Anaphase",
+        "correct": false
+      },
+      {
+        "label": "E",
+        "text": "Telophase",
+        "correct": false
+      }
+    ],
+    "reason": "no marked answer",
+    "notes": "No hand-drawn mark found on any option."
+  },
+  {
+    "id": 172,
+    "section": "Цитологія",
+    "question": "In the human cell, into the granular endoplasmic reticulum, an RNA containing both exon and intron sections was delivered to the ribosomes. What process does not happen?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Processing",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Replication",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Transcription",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Broadcasting",
+        "correct": false
+      },
+      {
+        "label": "E",
+        "text": "Prolongation",
+        "correct": false
+      }
+    ],
+    "reason": "no marked answer",
+    "notes": "No hand-drawn mark found on any option."
+  },
+  {
+    "id": 173,
+    "section": "Цитологія",
+    "question": "Streptomycin and other aminoglycosides prevent the joining of formylmethionyl-tRNA by bonding with the 30S ribosomal subunit. This effect leads to disruption of the following process:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Translation initiation in eucaryotes",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Translation initiation in procaryotes",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Transcription initiation in procaryotes",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Transcription initiation in eucaryotes",
+        "correct": false
+      },
+      {
+        "label": "E",
+        "text": "Replication initiation in prokaryotes",
+        "correct": false
+      }
+    ],
+    "reason": "no marked answer",
+    "notes": "Right edge of stem clipped; a few words reconstructed from context. No hand-drawn mark found on any option."
+  },
+  {
+    "id": 174,
+    "section": "Цитологія",
+    "question": "A patient has decreased concentration of magnesium ions that are required for ribosomes connection to granular endoplasmic reticulum. This condition is known to disturb the process of protein biosynthesis. Disturbance occurs at the following stage:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Translation",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Transcription",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Replication",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Amino acids activation",
+        "correct": false
+      },
+      {
+        "label": "E",
+        "text": "Processing",
+        "correct": false
+      }
+    ],
+    "reason": "no marked answer",
+    "notes": "No hand-drawn answer mark found."
+  },
+  {
+    "id": 175,
+    "section": "Цитологія",
+    "question": "A 36-year-old male comes to the dental office for extraction of the tooth. Two weeks after the procedure is performed, the stratified squamous epithelium regenerates at the site of extraction. Which of the following organelles is most likely involved in the mucosa regeneration?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ribosomes",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Centrosomes",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Lysosomes",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Smooth endoplasmic reticulum",
+        "correct": false
+      },
+      {
+        "label": "E",
+        "text": "Mitochondria",
+        "correct": false
+      }
+    ],
+    "reason": "no marked answer",
+    "notes": "Text clearly readable but no hand-drawn answer mark visible on any option."
+  },
+  {
+    "id": 176,
+    "section": "Цитологія",
+    "question": "Name the sequence of special functional DNA segments and structural genes that encode synthesis of a certain group of proteins that belong to one metabolic series.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Operon",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Promoter",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Operator",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Terminator",
+        "correct": false
+      },
+      {
+        "label": "E",
+        "text": "Regulator gene",
+        "correct": false
+      }
+    ],
+    "reason": "no marked answer",
+    "notes": "Text clearly readable but no hand-drawn answer mark visible on any option."
+  },
+  {
+    "id": 177,
+    "section": "Цитологія",
+    "question": "Biochemical analysis of amino acid composition of freshly synthesized polypeptides shows that in the process of translation, in each of these proteins the first amino acid is always the same one. Name this amino acid.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Methionine",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Isoleucine",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Serine",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Phenylalanine",
+        "correct": false
+      },
+      {
+        "label": "E",
+        "text": "Histidine",
+        "correct": false
+      }
+    ],
+    "reason": "no marked answer",
+    "notes": "Text clearly readable but no hand-drawn answer mark visible on any option."
+  },
+  {
+    "id": 178,
+    "section": "Цитологія",
+    "question": "In an experiment, despiralization of the DNA molecule was disrupted in an animal cell. What processes will primarily stop occurring in this cell?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Transcription",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Processing",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Translation",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Repair",
+        "correct": false
+      },
+      {
+        "label": "E",
+        "text": "Termination",
+        "correct": false
+      }
+    ],
+    "reason": "no marked answer",
+    "notes": "Text clearly readable but no hand-drawn answer mark visible on any option."
+  },
+  {
+    "id": 179,
+    "section": "Цитологія",
+    "question": "A team of medical students is performing research on phases of cell cycle. During one of the mitotic phases the cell is nearly done dividing, the chromosomes decondense and two nuclei begin to form around them. Which of the following phases most likely takes place in the cell?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Telophase",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Prophase",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Metaphase",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Anaphase",
+        "correct": false
+      }
+    ],
+    "reason": "no marked answer",
+    "notes": "Option E is blank/empty as printed (shown as 'E. -'). Text readable but no hand-drawn answer mark visible."
+  },
+  {
+    "id": 180,
+    "section": "Цитологія",
+    "question": "Some motile cells of multicellular organisms have special organelles that are thin extensions of cytoplasm, containing a bundle of microtubules - an axial filament or axoneme. Wha tare these organelles called?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Stereocilia and kinocilia",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Microtubules",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Microvilli",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Undulating membrane",
+        "correct": false
+      },
+      {
+        "label": "E",
+        "text": "Flagella",
+        "correct": false
+      }
+    ],
+    "reason": "no marked answer",
+    "notes": "Text readable; question stem has printed typo 'Wha tare'. No hand-drawn answer mark visible on any option."
+  },
+  {
+    "id": 181,
+    "section": "Цитологія",
+    "question": "Transcription id the process of that uses DNA as a matrix. Name transcription.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Processing, splicing, termination",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Initiation, elongation, termination",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Initiation, elongation, translation",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Initiation, processing, splicing",
+        "correct": false
+      },
+      {
+        "label": "E",
+        "text": "Initiation, translation, elongation",
+        "correct": false
+      }
+    ],
+    "reason": "no marked answer",
+    "notes": "Question stem partially cut off at column edge and contains printed typos; reconstructed as best readable. No hand-drawn answer mark visible."
+  },
+  {
+    "id": 182,
+    "section": "Цитологія",
+    "question": "What process allows producing d from single primary transcript?",
+    "options": [
+      {
+        "label": "A",
+        "text": "ADP-ribosylation",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Covalent modification",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Alternative splicing",
+        "correct": false
+      },
+      {
+        "label": "D",
+        "text": "Polyadenilation",
+        "correct": false
+      },
+      {
+        "label": "E",
+        "text": "Limited proteolysis",
+        "correct": false
+      }
+    ],
+    "reason": "no marked answer",
+    "notes": "Question stem cut off at column edge (word after 'producing' not fully visible). No hand-drawn answer mark visible on any option."
+  }
+]
